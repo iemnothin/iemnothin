@@ -16,7 +16,7 @@
   <table style="text-align: center;">
     <thead>
       <tr style="border: none">
-        <td style="border: none" align="center"><h3 style="font-style=bold">Now, I am student at</h3></td>
+        <td style="border: none" align="center"><h3 style="font-style=bold">Now, I am work as</h3></td>
         <td style="border: none" align="center"><h3 style="font-style=bold">Graduated at</h3></td>
       </tr>
     </thead>
@@ -24,7 +24,7 @@
       <tr style="border: none">
         <td style="border: none" align="center">
           <img src="https://github.com/kyriten/kyriten/blob/main/logo-unpak.ico" alt="Universitas Pakuan" style="width: 32%;">
-          <p>Computer Science - Universitas Pakuan</p>
+          <p>IT Business Analyst - PT Pelayaran Bahtera Adhiguna</p>
         </td>
         <td style="border: none" align="center">
           <img src="https://github.com/kyriten/kyriten/blob/main/bangkit.ico" alt="Bangkit 2023" style="width: 32%;">
@@ -37,7 +37,7 @@
 <h3 style="font-style=bold">Summary</h3>
   Currently, developing any app web-based, <br/>
   ⚙️Tech Stack: Laravel with Bootstrap 5, ReactJS as My Fav FE <br/>
-  🚀My App: Botanica, Priority, Doosenku, Rempah Indonesia
+  🚀My App: Botanica, Priority, Doosenku, Rempah Indonesia, AirQ by Abiila, Logbook App for PMS Progress
 </div>
 
 ---
