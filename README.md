@@ -23,7 +23,7 @@
     <tbody>
       <tr style="border: none">
         <td style="border: none" align="center">
-          <img src="https://github.com/kyriten/kyriten/blob/main/logo-unpak.ico" alt="Universitas Pakuan" style="width: 32%;">
+          <img src="https://github.com/kyriten/kyriten/blob/main/logo-bag.ico" alt="Universitas Pakuan" style="width: 32%;">
           <p>IT Business Analyst - PT Pelayaran Bahtera Adhiguna</p>
         </td>
         <td style="border: none" align="center">
